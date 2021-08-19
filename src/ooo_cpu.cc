@@ -176,6 +176,9 @@ void O3_CPU::read_from_trace()
                 arch_instr.instr_id = instr_unique_id;
                 arch_instr.ip = current_instr.ip;
                 arch_instr.is_branch = current_instr.is_branch;
+                arch_instr.is_load = current_instr.is_load;
+                arch_instr.is_store = current_instr.is_store;
+                arch_instr.is_alu = current_instr.is_alu;
                 arch_instr.branch_taken = current_instr.branch_taken;
 
                 arch_instr.asid[0] = cpu;
@@ -276,6 +279,10 @@ void O3_CPU::read_from_trace()
                 arch_instr.num_mem_ops = num_mem_ops;
                 if (num_mem_ops > 0) 
                     arch_instr.is_memory = 1;
+        
+        if(arch_instr.is_load) mem_access_type[0]++;
+        if(arch_instr.is_store) mem_access_type[1]++;
+        if(arch_instr.is_alu) alu_operations++;
 
 		// determine what kind of branch this is, if any
 		if(!reads_sp && !reads_flags && writes_ip && !reads_other)

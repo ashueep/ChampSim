@@ -1,0 +1,357 @@
+
+*** ChampSim Multicore Out-of-Order Simulator ***
+
+Warmup Instructions: 50000000
+Simulation Instructions: 500000000
+Number of CPUs: 1
+LLC sets: 2048
+LLC ways: 16
+Off-chip DRAM Size: 4096 MB Channels: 1 Width: 64-bit Data Rate: 3200 MT/s
+
+CPU 0 runs /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+CPU 0 Bimodal branch predictor
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 10000000 cycles: 4171593 heartbeat IPC: 2.39717 cumulative IPC: 2.39717 (Simulation time: 0 hr 0 min 16 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 20000000 cycles: 8343470 heartbeat IPC: 2.397 cumulative IPC: 2.39708 (Simulation time: 0 hr 0 min 33 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 30000000 cycles: 12515236 heartbeat IPC: 2.39707 cumulative IPC: 2.39708 (Simulation time: 0 hr 0 min 49 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 40000000 cycles: 16687426 heartbeat IPC: 2.39682 cumulative IPC: 2.39701 (Simulation time: 0 hr 1 min 5 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 50000000 cycles: 20859504 heartbeat IPC: 2.39689 cumulative IPC: 2.39699 (Simulation time: 0 hr 1 min 22 sec) 
+
+Warmup complete CPU 0 instructions: 50000004 cycles: 20859505 (Simulation time: 0 hr 1 min 22 sec) 
+
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 60000000 cycles: 27664451 heartbeat IPC: 1.46952 cumulative IPC: 1.46952 (Simulation time: 0 hr 1 min 38 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 70000000 cycles: 34469785 heartbeat IPC: 1.46944 cumulative IPC: 1.46948 (Simulation time: 0 hr 1 min 55 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 80000000 cycles: 41274011 heartbeat IPC: 1.46967 cumulative IPC: 1.46954 (Simulation time: 0 hr 2 min 12 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 90000000 cycles: 48078858 heartbeat IPC: 1.46954 cumulative IPC: 1.46954 (Simulation time: 0 hr 2 min 29 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 100000000 cycles: 54883773 heartbeat IPC: 1.46953 cumulative IPC: 1.46954 (Simulation time: 0 hr 2 min 45 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 110000000 cycles: 61687885 heartbeat IPC: 1.4697 cumulative IPC: 1.46957 (Simulation time: 0 hr 3 min 2 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 120000000 cycles: 68491968 heartbeat IPC: 1.46971 cumulative IPC: 1.46959 (Simulation time: 0 hr 3 min 19 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 130000000 cycles: 75296429 heartbeat IPC: 1.46962 cumulative IPC: 1.46959 (Simulation time: 0 hr 3 min 36 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 140000000 cycles: 82100683 heartbeat IPC: 1.46967 cumulative IPC: 1.4696 (Simulation time: 0 hr 3 min 54 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 150000000 cycles: 88906352 heartbeat IPC: 1.46936 cumulative IPC: 1.46958 (Simulation time: 0 hr 4 min 11 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 160000000 cycles: 95711861 heartbeat IPC: 1.4694 cumulative IPC: 1.46956 (Simulation time: 0 hr 4 min 29 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 170000000 cycles: 102516986 heartbeat IPC: 1.46948 cumulative IPC: 1.46955 (Simulation time: 0 hr 4 min 47 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 180000000 cycles: 109322330 heartbeat IPC: 1.46943 cumulative IPC: 1.46954 (Simulation time: 0 hr 5 min 4 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 190000000 cycles: 116126570 heartbeat IPC: 1.46967 cumulative IPC: 1.46955 (Simulation time: 0 hr 5 min 21 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 200000000 cycles: 122931383 heartbeat IPC: 1.46955 cumulative IPC: 1.46955 (Simulation time: 0 hr 5 min 37 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 210000000 cycles: 129736328 heartbeat IPC: 1.46952 cumulative IPC: 1.46955 (Simulation time: 0 hr 5 min 55 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 220000000 cycles: 136540407 heartbeat IPC: 1.46971 cumulative IPC: 1.46956 (Simulation time: 0 hr 6 min 12 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 230000000 cycles: 143344520 heartbeat IPC: 1.4697 cumulative IPC: 1.46957 (Simulation time: 0 hr 6 min 29 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 240000000 cycles: 150149020 heartbeat IPC: 1.46962 cumulative IPC: 1.46957 (Simulation time: 0 hr 6 min 46 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 250000000 cycles: 156953237 heartbeat IPC: 1.46968 cumulative IPC: 1.46958 (Simulation time: 0 hr 7 min 3 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 260000000 cycles: 163758940 heartbeat IPC: 1.46936 cumulative IPC: 1.46956 (Simulation time: 0 hr 7 min 20 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 270000000 cycles: 170564409 heartbeat IPC: 1.46941 cumulative IPC: 1.46956 (Simulation time: 0 hr 7 min 37 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 280000000 cycles: 177369566 heartbeat IPC: 1.46947 cumulative IPC: 1.46955 (Simulation time: 0 hr 7 min 54 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 290000000 cycles: 184174916 heartbeat IPC: 1.46943 cumulative IPC: 1.46955 (Simulation time: 0 hr 8 min 12 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 300000000 cycles: 190979163 heartbeat IPC: 1.46967 cumulative IPC: 1.46955 (Simulation time: 0 hr 8 min 28 sec) 
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+*** Reached end of trace for Core: 0 Repeating trace: /home/ashueep/Sem5/HPC/assignments/2/ChampSim/tracer/champsim.trace.xz
+Heartbeat CPU 0 instructions: 310000000 cycles: 197783998 heartbeat IPC: 1.46954 cumulative IPC: 1.46955 (Simulation time: 0 hr 8 min 45 sec) 
+Caught signal: 2

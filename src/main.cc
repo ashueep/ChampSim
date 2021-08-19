@@ -114,6 +114,19 @@ void print_branch_stats()
     }
 }
 
+void print_memaccess_stats(){
+    for(uint32_t i = 0 ; i < NUM_CPUS ; i++){
+        cout << "LOADS: " << ooo_cpu[i].mem_access_type[0] << " " << (100.0*ooo_cpu[i].mem_access_type[0])/(ooo_cpu[i].num_retired - ooo_cpu[i].begin_sim_instr) << "%" << endl;
+        cout << "STORES: " << ooo_cpu[i].mem_access_type[1] << " " << (100.0*ooo_cpu[i].mem_access_type[1])/(ooo_cpu[i].num_retired - ooo_cpu[i].begin_sim_instr) << "%" << endl;
+    }
+}
+
+void print_alu_stats(){
+    for(uint32_t i = 0 ; i < NUM_CPUS ; i++){
+        cout << "ALU operations: " << ooo_cpu[i].alu_operations << " " << (100.0*ooo_cpu[i].alu_operations)/(ooo_cpu[i].num_retired - ooo_cpu[i].begin_sim_instr) << "%" << endl;
+    }
+}
+
 void print_dram_stats()
 {
     cout << endl;
@@ -965,6 +978,8 @@ int main(int argc, char** argv)
     uncore.LLC.llc_replacement_final_stats();
     print_dram_stats();
     print_branch_stats();
+    print_memaccess_stats();
+    print_alu_stats();
 #endif
 
     return 0;

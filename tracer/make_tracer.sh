@@ -1,3 +1,3 @@
-export PIN_ROOT=/your/pin/directory/
+export PIN_ROOT=/home/ashueep/pin-3.17-98314-g0c048d619-gcc-linux
 mkdir -p obj-intel64
 make obj-intel64/champsim_tracer.so

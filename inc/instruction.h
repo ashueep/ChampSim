@@ -37,6 +37,13 @@ class input_instr {
     uint8_t is_branch;
     uint8_t branch_taken;
 
+    //memory info
+    uint8_t is_load;
+    uint8_t is_store;
+
+    //ALU info
+    uint8_t is_alu;
+
     uint8_t destination_registers[NUM_INSTR_DESTINATIONS]; // output registers
     uint8_t source_registers[NUM_INSTR_SOURCES]; // input registers
 
@@ -47,6 +54,10 @@ class input_instr {
         ip = 0;
         is_branch = 0;
         branch_taken = 0;
+
+        is_load = 0;
+        is_store = 0;
+        is_alu = 0;
 
         for (uint32_t i=0; i<NUM_INSTR_SOURCES; i++) {
             source_registers[i] = 0;
@@ -70,6 +81,11 @@ class cloudsuite_instr {
     uint8_t is_branch;
     uint8_t branch_taken;
 
+        //memory info
+    uint8_t is_load;
+    uint8_t is_store;
+    uint8_t is_alu;
+
     uint8_t destination_registers[NUM_INSTR_DESTINATIONS_SPARC]; // output registers
     uint8_t source_registers[NUM_INSTR_SOURCES]; // input registers
 
@@ -82,6 +98,10 @@ class cloudsuite_instr {
         ip = 0;
         is_branch = 0;
         branch_taken = 0;
+
+        is_load = 0;
+        is_store = 0;
+        is_alu = 0;
 
         for (uint32_t i=0; i<NUM_INSTR_SOURCES; i++) {
             source_registers[i] = 0;
@@ -111,6 +131,9 @@ class ooo_model_instr {
              event_cycle;
 
     uint8_t is_branch,
+            is_load,
+            is_store,
+            is_alu,
             is_memory,
             branch_taken,
             branch_mispredicted,
@@ -181,6 +204,9 @@ class ooo_model_instr {
         event_cycle = 0;
 
         is_branch = 0;
+        is_load = 0;
+        is_store = 0;
+        is_alu = 0;
         is_memory = 0;
         branch_taken = 0;
         branch_mispredicted = 0;
@@ -244,6 +270,9 @@ class ooo_model_instr {
     cout << "*** " << instr_id << " ***" << endl;
     cout << hex << "0x" << (uint64_t)ip << dec << endl;
     cout << (uint32_t)is_branch << " " << (uint32_t)branch_taken << endl;
+    cout << (uint32_t)is_load << endl;
+    cout << (uint32_t)is_store << endl;
+    cout << (uint8_t)is_alu << endl;
     for(uint32_t i=0; i<NUM_INSTR_SOURCES; i++)
       {
 	cout << (uint32_t)source_registers[i] << " ";

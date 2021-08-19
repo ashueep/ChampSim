@@ -19,8 +19,13 @@ using namespace std;
 typedef struct trace_instr_format {
     unsigned long long int ip;  // instruction pointer (program counter) value
 
-    unsigned char is_branch;    // is this branch
     unsigned char branch_taken; // if so, is this taken
+
+    unsigned char is_branch;    // is this branch
+    unsigned char is_load;
+    unsigned char is_store;
+    unsigned char is_alu;
+
 
     unsigned char destination_registers[NUM_INSTR_DESTINATIONS]; // output registers
     unsigned char source_registers[NUM_INSTR_SOURCES];           // input registers
@@ -97,7 +102,11 @@ void BeginInstruction(VOID *ip, UINT32 op_code, VOID *opstring)
     curr_instr.ip = (unsigned long long int)ip;
 
     curr_instr.is_branch = 0;
+    curr_instr.is_load = 0;
+    curr_instr.is_store = 0;
+    curr_instr.is_alu = 0;
     curr_instr.branch_taken = 0;
+    
 
     for(int i=0; i<NUM_INSTR_DESTINATIONS; i++) 
     {
@@ -140,6 +149,18 @@ void EndInstruction()
             exit(0);
         }
     }
+}
+
+void ALUORNot() {
+    curr_instr.is_alu = 1;
+}
+
+void LoadOrNot() {
+    curr_instr.is_load = 1;
+}
+
+void StorOrNot(){
+    curr_instr.is_store = 1;
 }
 
 void BranchOrNot(UINT32 taken)
@@ -317,9 +338,23 @@ VOID Instruction(INS ins, VOID *v)
     UINT32 opcode = INS_Opcode(ins);
     INS_InsertCall(ins, IPOINT_BEFORE, (AFUNPTR)BeginInstruction, IARG_INST_PTR, IARG_UINT32, opcode, IARG_END);
 
+    if(INS_Category(ins) == XED_CATEGORY_X87_ALU || INS_Category(ins) == XED_CATEGORY_BINARY)
+        INS_InsertCall(ins, IPOINT_BEFORE, (AFUNPTR)ALUORNot, IARG_END);
+    // else if()
+    //     INS_InsertCall(ins, IPOINT_BEFORE, (AFUNPTR)do_intcount, IARG_END);
+
     // instrument branch instructions
-    if(INS_IsBranch(ins))
+    if(INS_IsBranch(ins)){
         INS_InsertCall(ins, IPOINT_BEFORE, (AFUNPTR)BranchOrNot, IARG_BRANCH_TAKEN, IARG_END);
+    }
+    else if(INS_IsMemoryRead(ins)) {
+                INS_InsertCall(ins, IPOINT_BEFORE, (AFUNPTR)LoadOrNot, IARG_END);
+    }
+    else if(INS_IsMemoryWrite(ins)) {
+                INS_InsertCall(ins, IPOINT_BEFORE, (AFUNPTR)StorOrNot, IARG_END);
+    }
+
+    //
 
     // instrument register reads
     UINT32 readRegCount = INS_MaxNumRRegs(ins);
