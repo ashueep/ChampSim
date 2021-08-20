@@ -1,0 +1,4 @@
+/home/ashueep/SPEC2006/benchspec/CPU2006/401.bzip2/exe 
+/home/ashueep/SPEC2006/benchspec/CPU2006/462.libquantum/build/exe
+/home/ashueep/SPEC2006/benchspec/CPU2006/403.gcc/exe
+/home/ashueep/SPEC2006/benchspec/CPU2006/458.sjeng/exe
